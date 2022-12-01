@@ -10,6 +10,6 @@
 
 В проекте реализована адаптивная верстка для экранов с разрешением от 320px.
 
-Ссылка на GitHub Pages
+Ссылка на GitHub Pages https://natabr1.github.io/russian-travel/
 
 
