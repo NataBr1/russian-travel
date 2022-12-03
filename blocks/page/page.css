@@ -9,3 +9,9 @@
   background: #2A2C2F;
   color: white;
 }
+
+@media (max-width: 425px) {
+  .page {
+    padding-top: 16px;
+  }
+}

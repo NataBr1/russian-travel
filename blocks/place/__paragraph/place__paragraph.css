@@ -1,4 +1,22 @@
 .place__paragraph {
-  grid-column: 2/3;
-  grid-row: 2/3;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
+  margin: 0 0 26px;
+}
+
+.place__paragraph:last-child {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 600px) {
+  .place__paragraph {
+    padding: 0 16px 0;
+  }
 }

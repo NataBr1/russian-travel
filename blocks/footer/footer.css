@@ -3,11 +3,17 @@
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  flex-wrap: wrap;
 }
 
 @media (max-width: 768px) {
   .footer {
     margin: 0 24px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer {
     flex-direction: column;
   }
 }
