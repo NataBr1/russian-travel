@@ -12,3 +12,20 @@
   top: 0;
 }
 
+@media (max-width: 1024px) {
+  .cover__link {
+    padding: 19.04% 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover__link {
+    padding: 14.97% 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .cover__link {
+    padding: 10.31% 0;
+  }
+}
