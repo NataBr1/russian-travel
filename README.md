@@ -1,4 +1,4 @@
-<img src="./images/header-logo-black.svg" align="right" width="100px"/>
+<img src="./images/header-logo-black.svg" align="right" width="200px"/>
 
 # Russian-travel
 
